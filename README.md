@@ -34,7 +34,7 @@ View source code on github
 [https://github.com/ttshiamo02/HistoryQuizApp/tree/master]
 
 ## DEMOSTRATING VIDEO
-[Watch the app demo on youtube ] ()
+[Watch the app demo on youtube ] (https://youtu.be/RvtfxMdz2Qo?si=Sgu3M4RZhw0vd09B)
 
 ## BUILD INSTRUCTIONS
 * Clone the repository
