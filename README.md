@@ -46,7 +46,7 @@ View source code on github
   * Build on push/pull request
   * Uses JDK 17
   * Runs gradle build tasks
-View workflow file ()
+View workflow file (https://github.com/ttshiamo02/HistoryQuizApp/new/master?filename=.github%2Fworkflows%2Fblank.yml&workflow_template=ci%2Fblank)
 
 References
 
