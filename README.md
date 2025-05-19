@@ -31,7 +31,7 @@ Built with modern Android development practices, this app offers a seamless blen
 
 ## GITHUB REPOSITORY 
 View source code on github
-[]
+[https://github.com/ttshiamo02/HistoryQuizApp/tree/master]
 
 ## DEMOSTRATING VIDEO
 [Watch the app demo on youtube ] ()
