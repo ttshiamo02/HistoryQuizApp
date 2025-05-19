@@ -49,7 +49,9 @@ View source code on github
 View workflow file (https://github.com/ttshiamo02/HistoryQuizApp/new/master?filename=.github%2Fworkflows%2Fblank.yml&workflow_template=ci%2Fblank)
 
 References
-IMAD5112_MM.docx
+Garaganga,K.,2025.Introduction to Moblie Application. IMAD5112_MM.docx
+ Available at: https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15 /Doc.aspx?sourcedoc=%BAIFF62FO-8EIA-47BC-99BD-CA07AE244270%7D&file =IMAD5112-MM.docx &action =default& mobiledirect=true
+
 
 
 
